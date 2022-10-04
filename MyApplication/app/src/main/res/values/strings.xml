@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">login</string>
+    <string name="password">Senha</string>
+    <string name="register">Ainda não é cadastrado? Cadastre-se</string>
+    <string name="forgot_password">Esqueceu sua senha?</string>
+    <string name="email_adress">E-mail</string>
+</resources>
